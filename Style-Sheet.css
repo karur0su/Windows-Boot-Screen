@@ -4,4 +4,19 @@ body {
     display: flex;
     align-items: 
     center;
+    justify-content: 
+    center;
+    background-color:
+     black;
 }
+     .windows-boot {
+         width: 21.5em;
+         height: 15em;
+         font-size: 10px;
+         display: flex;
+         flex-direction: 
+         column;
+
+     }
+}
+
