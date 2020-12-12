@@ -1,1 +1,1 @@
-// A simple windows boot screen test // 
+// Psudeo Code fot  a simple windows boot screen test//
